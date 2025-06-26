@@ -259,7 +259,7 @@
   </style>
 </head>
 <body>
-  <img src="/sit/logo.png.png" alt="لوگو" class="background-logo" />
+  <img src="logo.png" alt="لوگو" class="background-logo" />
   <div class="neon-name">Dr.sajad.zarin</div>
 
   <div class="card">
@@ -275,7 +275,7 @@
   <!-- Appointment Overlay -->
   <input type="checkbox" id="appointment" class="overlay-toggle" />
   <div class="overlay">
-    <img src="/sit/logo.png.png" class="corner-logo" alt="لوگو" />
+    <img src="logo.png" class="corner-logo" alt="لوگو" />
     <div class="popup-options">
       <a href="files/dr-sajad-zarin.vcf" download>ذخیره مخاطب</a>
       <a href="tel:09300321109">تماس تلفنی</a>
@@ -290,7 +290,7 @@
   <!-- Laser Overlay -->
   <input type="checkbox" id="laser" class="overlay-toggle" />
   <div class="overlay">
-    <img src="/sit/logo.png.png" class="corner-logo" alt="لوگو" />
+    <img src="logo.png" class="corner-logo" alt="لوگو" />
     <div class="popup-options">
       <a href="files/laser-operator.vcf" download>ذخیره مخاطب</a>
       <a href="tel:09001412575">تماس تلفنی</a>
